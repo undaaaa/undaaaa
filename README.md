@@ -22,13 +22,9 @@
   <img src="https://streak-stats.demolab.com?user=aldiahayy&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-# 📊 GitHub Stats:
-![streak](https://github-readme-stats.vercel.app/api?username=undaaaa&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![streak](https://nirzak-streak-stats.vercel.app/?user=undaaaa&theme=date_night&hide_border=false)<br/>
-![streak](https://github-readme-stats.vercel.app/api/top-langs/?username=undaaaa&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![streak](https://visitcount.itsvg.in/api?id=undaaaa&icon=0&color=10)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=undaaaa&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
