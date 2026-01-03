@@ -1,11 +1,13 @@
   ![undaaa](img/github-header-banner.png)
-    ![undaaa](img/unda.png)
+  
 
 
 <div align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldiahayy&radius=16&theme=redical&area=true&order=5&bg_color=black&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
+<div align="center">
+  <img height="200" src="https://github.com/undaaaa/undaaaa/blob/main/img/unda.png"  />
+</div>
  
 
 ###
