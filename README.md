@@ -1,6 +1,4 @@
   ![undaaa](img/github-header-banner.png)
-  
-
 
 <div align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldiahayy&radius=16&theme=redical&area=true&order=5&bg_color=black&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
@@ -30,10 +28,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=undaaaa&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=undaaaa&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=undaaaa&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=undaaaa&icon=0&color=10)]
 
 
 ###
