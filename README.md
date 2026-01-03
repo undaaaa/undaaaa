@@ -24,8 +24,7 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=undaaaa&locale=en&mode=weekly&theme=calm-pink&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=undaaaa&theme=date-night&hide_border=true" alt="GitHub Streak" /></a></div>
 
 ###
 
