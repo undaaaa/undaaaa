@@ -2,10 +2,13 @@
 
 ###
 
-<div align="center">
+<div align="right">
+  
+<div align="left">
   <img src="https://count.getloli.com/@:undaaaa?theme=food&padding=7&scale=1&align=top&align=left&pixelated=1&darkmode=0"  />
  
-  <img height="200" src="https://github.com/undaaaa/undaaaa/blob/main/img/unda.png?align=right"  />
+  <img height="200" src="https://github.com/undaaaa/undaaaa/blob/main/img/unda.png"  />
+  </div>
 </div>
 
 <div align="center">
