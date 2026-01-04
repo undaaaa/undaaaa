@@ -2,9 +2,9 @@
 
 ###
 
-<div align="right">
-<div align="left">
-  <img src="https://count.getloli.com/@:undaaaa?theme=food&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+<div align="center">
+<div align="center">
+  <img src="https://count.getloli.com/@:undaaaa?theme=food&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  /> </br>
   <img height="200" src="https://github.com/undaaaa/undaaaa/blob/main/img/unda.png"  />
   </div>
 </div>
