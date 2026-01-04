@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:aldiahayy?theme=capoo-2&padding=4&offset=0&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:undaaaa?theme=food&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
