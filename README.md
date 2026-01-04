@@ -1,17 +1,15 @@
   ![undaaa](img/github-header-banner.png)
 
-<div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldiahayy&radius=16&theme=redical&area=true&order=5&bg_color=black&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
- 
-
 ###
 
-<div align="left">
-  <img src="https://count.getloli.com/@:undaaaa?theme=food&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
-  <div align="right">
-  <img height="200" src="https://github.com/undaaaa/undaaaa/blob/main/img/unda.png"  />
+<div align="center">
+  <img src="https://count.getloli.com/@:undaaaa?theme=food&padding=7&scale=1&align=top&align=left&pixelated=1&darkmode=0"  />
+ 
+  <img height="200" src="https://github.com/undaaaa/undaaaa/blob/main/img/unda.png?align=right"  />
 </div>
+
+<div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldiahayy&radius=16&theme=redical&area=true&order=5&bg_color=black&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
