@@ -1,0 +1,31 @@
+name: Auto Commit Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Force change
+        run: |
+          echo "Update $(date)" > auto.txt
+
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add auto.txt
+          git commit -m "auto commit: $(date)" || echo "no change"
+
+      - name: Push
+        run: |
+          git push
